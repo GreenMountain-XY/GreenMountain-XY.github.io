@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on GreenMountain</title>
-    <link>https://GreenMountain-xy.github.io/posts/</link>
-    <description>Recent content in Posts on GreenMountain</description>
+    <title>Posts on Yovr</title>
+    <link>https://greenmountain-xy.github.io/posts/</link>
+    <description>Recent content in Posts on Yovr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 19:39:05 +0800</lastBuildDate>
-    <atom:link href="https://GreenMountain-xy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 15:08:15 +0800</lastBuildDate>
+    <atom:link href="https://greenmountain-xy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>周报 #02 - 自我反省|自我改进|做好计划管理|做好笔记记录</title>
+      <link>https://greenmountain-xy.github.io/posts/week-report02/</link>
+      <pubDate>Sat, 02 Mar 2024 15:08:15 +0800</pubDate>
+      <guid>https://greenmountain-xy.github.io/posts/week-report02/</guid>
+      <description>自我反省和改进 虽然这篇周报创建比较久，但是我实际周一才开始写。在上篇博客我还励志要变好，但是实际并没有。感觉这周过的很糟糕。 从周四开始，接了个比较麻烦的单子之后，所有计划都被打乱，也没有得到很好的休息，导致学习状态也不是很好。但也并不是完全没有收获，或者说一些需要改进的东西吧。 以下是我眼前需要做好的事情，就编写边做吧。 通过这周的学习我意识到其实每周自己输入的东西有很多，但是很少能记下来，因此需要建立几个文件单独去记录。 首先要列一个长期待做事项，最好分好类别。&#xA;待做事项的创建 学习 关于学习，学习内容是永远学不完的，而且无法一时间把要学的内容全部学完，而当发现需要学习的东西而不去记录下来，当有时间了也不会想起来，所以我打算在Notion上建立一个待学习记录。 这个记录应该也要分轻重缓急，重要的排在前面，比如有关当前找工作的学习，最好有个学习计划（学习顺序） 这样当我有时间了就可以来看看学些什么，而不是无所事事，感觉好像什么事情都没有一样。&#xA;科研 科研对于当前的我来说还是比较重要的，虽然论文已经写完，但是还需要较长时间的修改，因此，这里需要记录一些要做的事情。而且论文的修改每天都要做，可能有时候要改的内容比较多，所以记录下来，让自己心里有数。&#xA;其他事情 除了当前对我来说的学习和科研比较重要的事情之外，还会有一些其他的事情，或者重要的东西需要记录的，也要记录下来，以免遗忘。&#xA;日志的记录 除了一些重要的事情的记录，每天做的一些事情或者感悟最好也要记录下来，哪怕平平无奇的一天，也要尽量写一些，养成这个习惯，相信也会有很多好处的。 日志的记录，我就写在Notion的计划管理里面&#xA;好物记录 关于一些好的东西的记录也是有必要的，包括学习资源，好听的音乐或者好用的东西，在需要的时候就可以尽快找到。&#xA;其实以上东西早在半年前我就在Notion上准备好了模板，奈何没有坚持下去。现在逐渐意识到了重要性。以后一定要写下去，包括每个月的复盘。之后可以写一个月报哈哈。 那现在我要做的事情就是整理之前的模板，使他更合适一些。 哦， 对了还有学习笔记，笔记可以记录自己的思考，以前不觉得笔记很重要，但是一些不常用的东西真的会忘，当需要的时候还需要重新去学就比较费时间，因此做好笔记是很有必要的，可以帮助我复习和巩固。</description>
+    </item>
+    <item>
+      <title>电影购票管理系统开发文档</title>
+      <link>https://greenmountain-xy.github.io/posts/movies_management_system/</link>
+      <pubDate>Wed, 28 Feb 2024 18:55:23 +0800</pubDate>
+      <guid>https://greenmountain-xy.github.io/posts/movies_management_system/</guid>
+      <description>电影购片管理系统 用户登录 排片信息查询 由用户选择按某项数据进行显示，显示后提供购票菜单： 按影院显示 按电影名称显示 按导演显示 按电影类型显示 按电影场次显示 按票价显示 返回上一级 选择显示顺序： 升序显示 降序显示 返回上一级 电影信息查询 按电影名称查询 按电影类型查询 购票 按排片信息购票 输入 电影院、电影名称、电影场次、座位信息。&#xA;管理员登录 电影信息维护 添加电影信息 删除电影信息 修改电影信息 电影院排片信息维护 输入影院名称 添加排片信息 删除拍片信息 修改电影信息 修改密码 输入账号 输入旧密码 输入新密码 重复输入新密码</description>
+    </item>
     <item>
       <title>周报 #01 - 新的一年，新的开始</title>
-      <link>https://GreenMountain-xy.github.io/posts/week-report01/</link>
+      <link>https://greenmountain-xy.github.io/posts/week-report01/</link>
       <pubDate>Sun, 25 Feb 2024 19:39:05 +0800</pubDate>
-      <guid>https://GreenMountain-xy.github.io/posts/week-report01/</guid>
+      <guid>https://greenmountain-xy.github.io/posts/week-report01/</guid>
       <description>前言 今天是农历正月十六，算是正式开学的日子（已经提前回校一周了）。新的一年还是要有些目标的。&#xA;改好论文 -&amp;gt; 成功发表 完成所有科研任务 完成雅思6.5分 学好技术，找到好的实习 早在一年之前我使用hexo搭建过一次博客，后面就不了了之了。。。。&#xA;离毕业越来越近，自己需要真正的做点什么了，不能得过且过的下去了。所以，我准备开始写博客，记录自己的成长，复盘总结经验，记录学习笔记。说到笔记，这次搭建博客的时候发现，曾经花大量时间看的git使用的视频已经忘得一干二净。所以笔记真的很重要，并且学过的东西还要经常使用才不会忘。&#xA;实际自己没有怎么写过博客，所以写的感觉毫无逻辑，希望日后能提升一下自己的语言和写作能力吧。希望也能坚持下去，记录自己的成长，激励自己慢慢变得更好。&#xA;杜绝拖延开始学雅思 从开学第一天起就打起了要学雅思的念头，以前的我肯定就是只想学却从来不去行动，随即就不了了之了。最近在一些优秀的人的影响之下，反思了之前自己的行为，无异于慢性自杀。所以要赶快行动起来！！ 我的女朋友给我联系了一个朋友，他非常负责人的告诉了我如何去准备雅思考试，跟我说了很多，我觉得我不好好学习都对不起这素未谋面的朋友。因此在他跟我说完我就立马整理了学习资料规划了短期的学习计划，并且认真执行下去了。&#xA;这一周我还算比较满意的，至少在雅思方面，我们有任何懈怠，一定要坚持下去。另外在科研方面我过程中前期有些懈怠，不过后面我及时的暗示了自己，让自己慢慢的杜绝摸鱼。但实际上还是浪费了很多时间。 最感觉不足的事情是我没有省出来时间去探究科研任务的第二个点，这取决于我什么时候可以去实习，因此接下来，我需要更加充分的利用时间，按照规划好的时间严格执行，这样才能有时间去探究第二个点。也不会无限期的拖延下去。&#xA;刚刚搭建好博客，从这里作为一个好的起点，坚持下去，希望博客的内容可以见证我的成长！</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://GreenMountain-xy.github.io/posts/my-first-post/</link>
+      <link>https://greenmountain-xy.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 25 Feb 2024 11:12:29 +0800</pubDate>
-      <guid>https://GreenMountain-xy.github.io/posts/my-first-post/</guid>
+      <guid>https://greenmountain-xy.github.io/posts/my-first-post/</guid>
       <description>test</description>
     </item>
   </channel>
